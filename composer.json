@@ -1,0 +1,30 @@
+{
+    "name": "haiaouang/bitcoin",
+    "description": "The Hht bitcoin package.",
+    "license": "MIT",
+    "homepage": "https://github.com/haiaouang/bitcoin",
+    "keywords": ["laravel", "bitcoin"],
+    "type": "library",
+    "support": {
+        "issues": "https://github.com/haiaouang/bitcoin",
+        "source": "https://github.com/haiaouang/bitcoin"
+    },
+    "authors": [
+        {
+            "name": "HaitaoHuang",
+            "email": "h280338871@126.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hht\\Bitcoin\\": ""
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev"
+}
