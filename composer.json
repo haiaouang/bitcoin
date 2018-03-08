@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Hht\\Bitcoin\\": ""
+            "Hht\\Bitcoin\\": "src"
         }
     },
     "config": {
